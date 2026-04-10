@@ -10,7 +10,7 @@
 
 ## Репозиторий
 
-`https://github.com/[ваш_username]/heat-conduction-simulation`
+`https://github.com/a4ewho/project-python`
 
 ## Ассистент
 
